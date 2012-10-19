@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "ivan: add pipe to start of each line",
+        "command": "add_pipe_to_start_of_each_line"
+    },
+    {
+        "caption": "ivan: squirrel table to pipe table",
+        "command": "squirrel_table_to_pipe_table"
+    }
+]
